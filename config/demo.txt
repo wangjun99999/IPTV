@@ -1,4 +1,4 @@
-央视卫视,#genre#
+国内频道,#genre#
 CCTV-1
 CCTV-2
 CCTV-3
