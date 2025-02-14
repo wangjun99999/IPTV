@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-14 06:33:45,url
+2025-02-14 18:32:40,url
 国内频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -499,7 +499,7 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源|1920x1080
 东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140$组播源
 东方财经,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$订阅源
 东方财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000007000010003$订阅源
-东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111$订阅源|1920x1080
+东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111$订阅源
 山东新闻,http://livealone302.iqilu.com/iqilu/ggpd.m3u8$订阅源
 山东新闻,http://58.57.40.22:9901/tsfile/live/1019_1.m3u8$订阅源
 山东国际,http://139.129.231.228:50060/rtp/239.21.1.61:5002$组播源
@@ -517,8 +517,8 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源|1920x1080
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146$组播源
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$组播源
 广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146$组播源
-广东体育,http://125.89.163.44:8888/udp/239.77.0.112:5146$订阅源|1920x1080
 广东体育,http://14.19.151.0:9900/udp/239.77.0.112:5146$订阅源|1920x1080
+广东体育,http://125.89.163.44:8888/udp/239.77.0.112:5146$订阅源|1920x1080
 广东体育,http://14.112.86.85:4022/udp/239.77.0.112:5146$订阅源|1920x1080
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源|1920x1080
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$订阅源|1920x1080
@@ -529,12 +529,11 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源|1920x1080
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS$订阅源|IPv6
 五星体育,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3$订阅源
 五星体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3$订阅源
-五星体育,http://home.dzlove.top:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源
 体育赛事,http://123.56.129.203:5466/rtp/225.1.8.81:8176$北京电信组播源
+劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty$订阅源|1920x1080
 广州竞赛,http://120.77.205.62:8087/rtp/239.253.43.75:5146$组播源
 广州竞赛,http://120.77.205.62:8087/rtp/239.253.43.70:5146$组播源
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8$订阅源
-天津体育,http://ha.xushining.com:50000/udp/225.1.1.122:5002$订阅源|1920x1080
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
