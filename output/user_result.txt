@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-01 18:30:13,url
+2025-03-02 06:33:24,url
 国内频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -288,16 +288,16 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源|1920x1080
 东南卫视,http://122.9.151.210:2669/rtp/238.255.2.103:5999$组播源
 东南卫视,http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8$订阅源|IPv6
 东南卫视,http://[2409:8087:74d1:22::4]:6610/270000001128/9900000519/index.m3u8?channel-id=newtv&Ace$订阅源|IPv6
-东南卫视,http://8.138.7.223/tv/fjtv.php?id=5$订阅源|1920x1080
+东南卫视,http://58.221.214.82:9901/tsfile/live/0137_1.m3u8$订阅源
 甘肃卫视,http://220.249.114.102:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 甘肃卫视,http://122.9.151.210:7137/rtp/238.255.2.73:5999$贵州电信组播源
 甘肃卫视,http://123.56.129.203:5466/rtp/225.1.8.162:8188$北京电信组播源
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225633/index.m3u8$订阅源|IPv6
 甘肃卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gsws_4000.m3u8$订阅源|IPv6
 甘肃卫视,http://122.9.151.210:8088/rtp/238.255.2.73:5999$组播源
-甘肃卫视,http://lu.wqwqwq.sbs/itv/5000000011000031121.m3u8?cdn=bestzb$订阅源|1920x1080
 甘肃卫视,http://111.61.236.247:9081/hls/54/index.m3u8$订阅源
 甘肃卫视,http://121.33.239.242:9901/tsfile/live/0141_1.m3u8$订阅源
+甘肃卫视,http://222.240.220.198:9901/tsfile/live/0141_1.m3u8$订阅源
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://220.249.114.102:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 广西卫视,http://122.9.151.210:7137/rtp/238.255.2.64:5999$贵州电信组播源
@@ -465,9 +465,9 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源|1920x1080
 西藏卫视,http://123.56.129.203:5466/rtp/225.1.8.160:8164$北京电信组播源
 西藏卫视,http://139.129.231.228:50060/rtp/239.21.1.46:5002$组播源
 西藏卫视,http://139.196.151.191:2051/rtp/239.45.1.231:5140$组播源
-西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源|1920x1080
 西藏卫视,http://111.61.236.247:9081/hls/52/index.m3u8$订阅源
 西藏卫视,http://121.33.239.242:9901/tsfile/live/0132_1.m3u8$订阅源
+西藏卫视,http://110.53.218.182:9902/tsfile/live/1005_1.m3u8$订阅源
 新疆卫视,http://220.249.114.102:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 新疆卫视,http://122.9.151.210:7137/rtp/238.255.2.66:5999$贵州电信组播源
 新疆卫视,http://123.56.129.203:5466/rtp/225.1.8.161:8160$北京电信组播源
@@ -510,9 +510,9 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源|1920x1080
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146$组播源
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$组播源
 广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146$组播源
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源|1920x1080
 广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广东体育,http://r.jdshipin.com/LiYdg$订阅源
+广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8$订阅源
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$订阅源|1920x1080
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源
@@ -527,6 +527,6 @@ CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源|1920x1080
 广州竞赛,http://120.77.205.62:8087/rtp/239.253.43.75:5146$组播源
 广州竞赛,http://120.77.205.62:8087/rtp/239.253.43.70:5146$组播源
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
